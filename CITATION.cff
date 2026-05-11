@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Reinforcement Learning"
+abstract: "A curated list of research papers, frameworks, environments, tutorials, courses, datasets, and resources related to reinforcement learning and sequential decision-making systems."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-reinforcement-learning"
+keywords:
+  - reinforcement learning
+  - RL
+  - artificial intelligence
+  - machine learning
+  - deep reinforcement learning
+  - sequential decision making
+  - robotics
+  - control systems
+  - autonomous systems
+  - AI research
+  - awesome list
